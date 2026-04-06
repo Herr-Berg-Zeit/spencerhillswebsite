@@ -37,7 +37,9 @@ window.siteData = {
       bodyHtml: `
         <section class="project-longform">
           <h2>Overview</h2>
-          <p>This poster introduces a three-lens framework designed to help mental health professionals improve cultural competence when working with rural clients. To understand these three lenses, the framework first examines the historical roots of rural culture, especially the ways European cultural traditions helped shape American rural identity. From there, the three lenses refine how clinicians can understand the cultural framework through which a rural person interprets themselves, their relationships, and the world around them.</p>
+          <p>This poster introduces a three-lens framework designed to help mental health professionals improve cultural competence when working with rural clients. Below in a written breif introduction to understanding each of the core elements I have found in my research. </P> 
+          
+          <p>To understand these three lenses, the framework first examines the historical roots of rural culture, especially the ways European cultural traditions helped shape American rural identity. From there, the three lenses refine how clinicians can understand the cultural framework through which a rural person interprets themselves, their relationships, and the world around them.</p>
 
           <p><strong>Lens 1</strong> - addresses major cultural and ethnic group identities that are most immediately visible in rural populations, such as Christian, White, Latino, Native American, and other distinct groups.</p>
 
